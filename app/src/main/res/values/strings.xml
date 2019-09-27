@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DontPad</string>
+    <string name="Text">Text</string>
+    <string name="hint">Note here</string>
+    <string name="Photo">Photo</string>
+    <string name="Title">TItle</string>
+
+    <string name="title_activity_photo_full">PhotoFull</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="back">back</string>
+
+</resources>
